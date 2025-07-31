@@ -31,7 +31,7 @@ Hadoop Häufigkeitsberechnung/
 
 ## Datensatz
 Der Originaldatensatz wurde mehrfach vervielfältigt, sodass drei weitere Datensätze erstellt wurden. 
-Diese können aus der .zip Datei heruntergeladen werden. 
+Diese können unter folgendem Link als .zip Datei heruntergeladen werden: https://drive.google.com/file/d/128XNHC4IQ2Q3-KIFKNFZorxf-BhiouFf/view?usp=drive_link 
 
 ## Projekt starten 
 
