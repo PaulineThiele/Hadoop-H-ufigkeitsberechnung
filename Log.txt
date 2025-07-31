@@ -1,0 +1,1680 @@
+date +%s Dutch Größe: .66 MB
+date +%s Dutch Dauer: 43 Sekunden
+2025-07-29 11:51:43 Dutch Größe: .66 MB
+2025-07-29 11:51:43 Dutch Dauer: 171 Sekunden
+2025-07-29 11:59:12 Dutch Größe: .66 MB
+2025-07-29 11:59:12 Dutch Dauer: 34 Sekunden
+2025-07-29 11:59:20 merged Dutch
+2025-07-29 11:59:23 TOP 10 Wörter für Dutch:
+2025-07-29 11:59:26 den 1520
+t 701
+gij 627
+zoo 512
+zijne 509
+eene 488
+der 375
+marten 330
+baas 305
+want 231
+2025-07-29 12:02:42 English Größe: 28.72 MB
+2025-07-29 12:02:42 English Dauer: 191 Sekunden
+2025-07-29 12:02:51 merged English
+2025-07-29 12:02:53 TOP 10 Wörter für English:
+2025-07-29 12:02:55 man 11763
+time 9585
+mr 8745
+good 6752
+made 6214
+holmes 5909
+back 5778
+long 5765
+great 5534
+day 5295
+2025-07-29 12:06:25 French Größe: 32.62 MB
+2025-07-29 12:06:25 French Dauer: 204 Sekunden
+2025-07-29 12:06:35 merged French
+2025-07-29 12:06:38 TOP 10 Wörter für French:
+2025-07-29 12:06:40 homme 10268
+faire 9207
+fut 7210
+monsieur 7088
+point 6670
+jeune 5891
+femme 5866
+fit 5731
+yeux 5615
+jamais 5572
+2025-07-29 12:12:16 German Größe: 49.85 MB
+2025-07-29 12:12:16 German Dauer: 329 Sekunden
+2025-07-29 12:12:24 merged German
+2025-07-29 12:12:27 TOP 10 Wörter für German:
+2025-07-29 12:12:29 rief 9276
+hand 8921
+augen 8278
+herr 7663
+fragte 6410
+leben 5996
+vater 5816
+stand 5656
+fort 5494
+frau 5384
+2025-07-29 12:15:28 Italian Größe: 19.48 MB
+2025-07-29 12:15:28 Italian Dauer: 174 Sekunden
+2025-07-29 12:15:36 merged Italian
+2025-07-29 12:15:38 TOP 10 Wörter für Italian:
+2025-07-29 12:15:40 disse 8759
+s 6387
+rispose 4023
+ch 3931
+occhi 3614
+sì 3570
+donna 3087
+mano 3055
+altra 2968
+voce 2862
+2025-07-29 12:19:15 Russian Größe: 4.09 MB
+2025-07-29 12:19:15 Russian Dauer: 210 Sekunden
+2025-07-29 12:19:23 merged Russian
+2025-07-29 12:19:25 TOP 10 Wörter für Russian:
+2025-07-29 12:19:27 ним 460
+txt 446
+глаза 298
+сердце 271
+моей 255
+жизни 234
+знаю 224
+горский 224
+руки 209
+ах 208
+2025-07-29 12:21:05 Spanish Größe: 8.58 MB
+2025-07-29 12:21:05 Spanish Dauer: 91 Sekunden
+2025-07-29 12:21:12 merged Spanish
+2025-07-29 12:21:14 TOP 10 Wörter für Spanish:
+2025-07-29 12:21:16 á 3767
+don 3073
+casa 2451
+ojos 1816
+vida 1599
+hombre 1565
+dios 1508
+señor 1497
+padre 1395
+mujer 1314
+2025-07-29 12:23:27 Ukrainian Größe: 8.27 MB
+2025-07-29 12:23:27 Ukrainian Dauer: 127 Sekunden
+2025-07-29 12:23:35 merged Ukrainian
+2025-07-29 12:23:38 TOP 10 Wörter für Ukrainian:
+2025-07-29 12:23:40 а 14064
+й 11190
+i 4836
+н 1936
+о 1821
+вiн 1533
+бо 1511
+се 1469
+од 1421
+от 1274
+2025-07-29 18:47:45 Dutch Größe: .66 MB
+2025-07-29 18:47:45 Dutch Dauer: 33 Sekunden
+2025-07-29 18:47:53 merged Dutch
+2025-07-29 18:47:56 TOP 10 Wörter für Dutch:
+2025-07-29 18:47:59 den 1520
+t 701
+gij 627
+zoo 512
+zijne 509
+eene 488
+der 375
+marten 330
+baas 305
+want 231
+2025-07-29 18:51:24 English Größe: 28.72 MB
+2025-07-29 18:51:24 English Dauer: 199 Sekunden
+2025-07-29 18:51:33 merged English
+2025-07-29 18:51:36 TOP 10 Wörter für English:
+2025-07-29 18:51:39 man 11763
+time 9585
+mr 8745
+good 6752
+made 6214
+holmes 5909
+back 5778
+long 5765
+great 5534
+day 5295
+2025-07-29 18:54:42 French Größe: 32.62 MB
+2025-07-29 18:54:42 French Dauer: 177 Sekunden
+2025-07-29 18:54:49 merged French
+2025-07-29 18:54:51 TOP 10 Wörter für French:
+2025-07-29 18:54:53 homme 10268
+faire 9207
+fut 7210
+monsieur 7088
+point 6670
+jeune 5891
+femme 5866
+fit 5731
+yeux 5615
+jamais 5572
+2025-07-29 18:59:39 German Größe: 49.85 MB
+2025-07-29 18:59:39 German Dauer: 278 Sekunden
+2025-07-29 18:59:47 merged German
+2025-07-29 18:59:50 TOP 10 Wörter für German:
+2025-07-29 18:59:52 rief 9276
+hand 8921
+augen 8278
+herr 7663
+fragte 6410
+leben 5996
+vater 5816
+stand 5656
+fort 5494
+frau 5384
+2025-07-29 19:02:46 Italian Größe: 19.48 MB
+2025-07-29 19:02:46 Italian Dauer: 168 Sekunden
+2025-07-29 19:02:54 merged Italian
+2025-07-29 19:02:56 TOP 10 Wörter für Italian:
+2025-07-29 19:02:58 disse 8759
+s 6387
+rispose 4023
+ch 3931
+occhi 3614
+sì 3570
+donna 3087
+mano 3055
+altra 2968
+voce 2862
+2025-07-29 19:06:41 Russian Größe: 4.09 MB
+2025-07-29 19:06:41 Russian Dauer: 215 Sekunden
+2025-07-29 19:06:50 merged Russian
+2025-07-29 19:06:55 TOP 10 Wörter für Russian:
+2025-07-29 19:06:57 ним 460
+txt 446
+глаза 298
+сердце 271
+моей 255
+жизни 234
+знаю 224
+горский 224
+руки 209
+ах 208
+2025-07-29 19:09:00 Spanish Größe: 8.58 MB
+2025-07-29 19:09:00 Spanish Dauer: 113 Sekunden
+2025-07-29 19:09:10 merged Spanish
+2025-07-29 19:09:12 TOP 10 Wörter für Spanish:
+2025-07-29 19:09:14 á 3767
+don 3073
+casa 2451
+ojos 1816
+vida 1599
+hombre 1565
+dios 1508
+señor 1497
+padre 1395
+mujer 1314
+2025-07-29 19:12:13 Ukrainian Größe: 8.27 MB
+2025-07-29 19:12:13 Ukrainian Dauer: 173 Sekunden
+2025-07-29 19:12:22 merged Ukrainian
+2025-07-29 19:12:24 TOP 10 Wörter für Ukrainian:
+2025-07-29 19:12:27 а 14064
+й 11190
+i 4836
+н 1936
+о 1821
+вiн 1533
+бо 1511
+се 1469
+од 1421
+от 1274
+2025-07-29 23:01:59 Dutch Größe: 250.48 MB
+2025-07-29 23:01:59 Dutch Dauer: 353 Sekunden
+2025-07-29 23:02:08 merged Dutch
+2025-07-29 23:02:11 TOP 10 Wörter für Dutch:
+2025-07-29 23:02:14 zijne 18944
+den 18944
+hare 18432
+rené 14848
+laurence 14336
+zoo 11776
+eene 11776
+zuster 8192
+broeder 8192
+hunne 6656
+2025-07-29 23:11:38 English Größe: 250.88 MB
+2025-07-29 23:11:38 English Dauer: 556 Sekunden
+2025-07-29 23:11:48 merged English
+2025-07-29 23:11:51 TOP 10 Wörter für English:
+2025-07-29 23:11:54 man 97424
+time 79090
+mr 70264
+и 60096
+good 56556
+made 51682
+back 48448
+long 47886
+holmes 47272
+great 46324
+2025-07-29 23:17:44 French Größe: 250.79 MB
+2025-07-29 23:17:44 French Dauer: 338 Sekunden
+2025-07-29 23:17:56 merged French
+2025-07-29 23:17:59 TOP 10 Wörter für French:
+2025-07-29 23:18:02 homme 77418
+faire 72102
+fut 57071
+monsieur 54946
+point 52080
+fit 44925
+femme 44464
+jeune 44295
+jamais 43015
+oui 42501
+2025-07-29 23:25:30 German Größe: 250.73 MB
+2025-07-29 23:25:30 German Dauer: 441 Sekunden
+2025-07-29 23:25:40 merged German
+2025-07-29 23:25:43 TOP 10 Wörter für German:
+2025-07-29 23:25:46 hand 44141
+augen 43968
+rief 43839
+herr 38696
+fragte 31496
+stand 28902
+leben 28883
+ließ 27738
+lassen 26567
+vater 25934
+2025-07-29 23:31:15 Italian Größe: 250.80 MB
+2025-07-29 23:31:15 Italian Dauer: 322 Sekunden
+2025-07-29 23:31:24 merged Italian
+2025-07-29 23:31:27 TOP 10 Wörter für Italian:
+2025-07-29 23:31:29 disse 122001
+s 89158
+rispose 54310
+sì 52849
+donna 47718
+occhi 47681
+ch 45610
+signor 43646
+altra 40478
+né 39034
+2025-07-29 23:40:17 Russian Größe: 251.97 MB
+2025-07-29 23:40:17 Russian Dauer: 521 Sekunden
+2025-07-29 23:40:25 merged Russian
+2025-07-29 23:40:28 TOP 10 Wörter für Russian:
+2025-07-29 23:40:31 ним 30192
+txt 28544
+глаза 18572
+моей 16726
+сердце 15975
+жизни 14655
+горский 14336
+знаю 13660
+ах 12730
+руки 12584
+2025-07-29 23:44:10 Spanish Größe: 250.63 MB
+2025-07-29 23:44:10 Spanish Dauer: 212 Sekunden
+2025-07-29 23:44:20 merged Spanish
+2025-07-29 23:44:22 TOP 10 Wörter für Spanish:
+2025-07-29 23:44:25 á 120544
+don 85952
+casa 69904
+ojos 51232
+hombre 47024
+vida 46272
+dios 42240
+padre 41376
+señor 40240
+mujer 39200
+2025-07-29 23:49:39 Ukrainian Größe: 250.66 MB
+2025-07-29 23:49:39 Ukrainian Dauer: 307 Sekunden
+2025-07-29 23:49:47 merged Ukrainian
+2025-07-29 23:49:50 TOP 10 Wörter für Ukrainian:
+2025-07-29 23:49:52 а 389507
+й 284407
+i 110403
+н 76880
+о 62108
+се 45027
+к 42672
+бо 41927
+од 39472
+неначе 35235
+2025-07-29 23:54:53 Dutch Größe: 250.48 MB
+2025-07-29 23:54:53 Dutch Dauer: 292 Sekunden
+2025-07-29 23:55:01 merged Dutch
+2025-07-29 23:55:03 TOP 10 Wörter für Dutch:
+2025-07-29 23:55:06 zijne 18944
+den 18944
+hare 18432
+rené 14848
+laurence 14336
+zoo 11776
+eene 11776
+zuster 8192
+broeder 8192
+hunne 6656
+2025-07-30 00:00:44 English Größe: 250.88 MB
+2025-07-30 00:00:44 English Dauer: 331 Sekunden
+2025-07-30 00:00:53 merged English
+2025-07-30 00:00:56 TOP 10 Wörter für English:
+2025-07-30 00:00:58 man 97424
+time 79090
+mr 70264
+и 60096
+good 56556
+made 51682
+back 48448
+long 47886
+holmes 47272
+great 46324
+2025-07-30 00:06:22 French Größe: 250.79 MB
+2025-07-30 00:06:22 French Dauer: 317 Sekunden
+2025-07-30 00:06:30 merged French
+2025-07-30 00:06:32 TOP 10 Wörter für French:
+2025-07-30 00:06:35 homme 77418
+faire 72102
+fut 57071
+monsieur 54946
+point 52080
+fit 44925
+femme 44464
+jeune 44295
+jamais 43015
+oui 42501
+2025-07-30 00:13:09 German Größe: 250.73 MB
+2025-07-30 00:13:09 German Dauer: 389 Sekunden
+2025-07-30 00:13:20 merged German
+2025-07-30 00:13:24 TOP 10 Wörter für German:
+2025-07-30 00:13:27 hand 44141
+augen 43968
+rief 43839
+herr 38696
+fragte 31496
+stand 28902
+leben 28883
+ließ 27738
+lassen 26567
+vater 25934
+2025-07-30 00:18:38 Italian Größe: 250.80 MB
+2025-07-30 00:18:38 Italian Dauer: 304 Sekunden
+2025-07-30 00:18:46 merged Italian
+2025-07-30 00:18:48 TOP 10 Wörter für Italian:
+2025-07-30 00:18:50 disse 122001
+s 89158
+rispose 54310
+sì 52849
+donna 47718
+occhi 47681
+ch 45610
+signor 43646
+altra 40478
+né 39034
+2025-07-30 00:25:24 Russian Größe: 251.97 MB
+2025-07-30 00:25:24 Russian Dauer: 387 Sekunden
+2025-07-30 00:25:35 merged Russian
+2025-07-30 00:25:37 TOP 10 Wörter für Russian:
+2025-07-30 00:25:40 ним 30192
+txt 28544
+глаза 18572
+моей 16726
+сердце 15975
+жизни 14655
+горский 14336
+знаю 13660
+ах 12730
+руки 12584
+2025-07-30 00:29:12 Spanish Größe: 250.63 MB
+2025-07-30 00:29:12 Spanish Dauer: 205 Sekunden
+2025-07-30 00:29:21 merged Spanish
+2025-07-30 00:29:23 TOP 10 Wörter für Spanish:
+2025-07-30 00:29:26 á 120544
+don 85952
+casa 69904
+ojos 51232
+hombre 47024
+vida 46272
+dios 42240
+padre 41376
+señor 40240
+mujer 39200
+2025-07-30 00:34:17 Ukrainian Größe: 250.66 MB
+2025-07-30 00:34:17 Ukrainian Dauer: 285 Sekunden
+2025-07-30 00:34:26 merged Ukrainian
+2025-07-30 00:34:29 TOP 10 Wörter für Ukrainian:
+2025-07-30 00:34:31 а 389507
+й 284407
+i 110531
+н 76880
+о 62108
+се 45027
+к 42672
+бо 41927
+од 39472
+неначе 35235
+2025-07-30 00:39:18 Dutch Größe: 250.48 MB
+2025-07-30 00:39:19 Dutch Dauer: 280 Sekunden
+2025-07-30 00:39:26 merged Dutch
+2025-07-30 00:39:29 TOP 10 Wörter für Dutch:
+2025-07-30 00:39:31 zijne 18944
+den 18944
+hare 18432
+rené 14848
+laurence 14336
+zoo 11776
+eene 11776
+zuster 8192
+broeder 8192
+hunne 6656
+2025-07-30 00:44:41 English Größe: 250.88 MB
+2025-07-30 00:44:41 English Dauer: 304 Sekunden
+2025-07-30 00:44:48 merged English
+2025-07-30 00:44:50 TOP 10 Wörter für English:
+2025-07-30 00:44:53 man 97424
+time 79090
+mr 70264
+и 60096
+good 56556
+made 51682
+back 48448
+long 47886
+holmes 47272
+great 46324
+2025-07-30 00:50:04 French Größe: 250.79 MB
+2025-07-30 00:50:04 French Dauer: 305 Sekunden
+2025-07-30 00:50:14 merged French
+2025-07-30 00:50:17 TOP 10 Wörter für French:
+2025-07-30 00:50:20 homme 77418
+faire 72102
+fut 57071
+monsieur 54946
+point 52080
+fit 44925
+femme 44464
+jeune 44295
+jamais 43015
+oui 42501
+2025-07-30 00:56:31 German Größe: 250.73 MB
+2025-07-30 00:56:31 German Dauer: 365 Sekunden
+2025-07-30 00:56:40 merged German
+2025-07-30 00:56:43 TOP 10 Wörter für German:
+2025-07-30 00:56:45 hand 44141
+augen 43968
+rief 43839
+herr 38696
+fragte 31496
+stand 28902
+leben 28883
+ließ 27738
+lassen 26567
+vater 25934
+2025-07-30 01:01:39 Italian Größe: 250.80 MB
+2025-07-30 01:01:39 Italian Dauer: 287 Sekunden
+2025-07-30 01:01:48 merged Italian
+2025-07-30 01:01:51 TOP 10 Wörter für Italian:
+2025-07-30 01:01:53 disse 122001
+s 89158
+rispose 54310
+sì 52849
+donna 47718
+occhi 47681
+ch 45610
+signor 43646
+altra 40478
+né 39034
+2025-07-30 01:08:15 Russian Größe: 251.97 MB
+2025-07-30 01:08:15 Russian Dauer: 376 Sekunden
+2025-07-30 01:08:22 merged Russian
+2025-07-30 01:08:25 TOP 10 Wörter für Russian:
+2025-07-30 01:08:27 ним 30192
+txt 28544
+глаза 18572
+моей 16726
+сердце 15975
+жизни 14655
+горский 14336
+знаю 13660
+ах 12730
+руки 12584
+2025-07-30 01:11:29 Spanish Größe: 250.63 MB
+2025-07-30 01:11:29 Spanish Dauer: 177 Sekunden
+2025-07-30 01:11:36 merged Spanish
+2025-07-30 01:11:39 TOP 10 Wörter für Spanish:
+2025-07-30 01:11:41 á 120544
+don 85952
+casa 69904
+ojos 51232
+hombre 47024
+vida 46272
+dios 42240
+padre 41376
+señor 40240
+mujer 39200
+2025-07-30 01:16:16 Ukrainian Größe: 250.66 MB
+2025-07-30 01:16:16 Ukrainian Dauer: 269 Sekunden
+2025-07-30 01:16:24 merged Ukrainian
+2025-07-30 01:16:26 TOP 10 Wörter für Ukrainian:
+2025-07-30 01:16:29 а 389523
+й 284407
+i 110531
+н 76880
+о 62108
+се 45027
+к 42688
+бо 41927
+од 39472
+неначе 35235
+2025-07-30 01:20:49 Dutch Größe: 250.48 MB
+2025-07-30 01:20:49 Dutch Dauer: 255 Sekunden
+2025-07-30 01:20:57 merged Dutch
+2025-07-30 01:20:59 TOP 10 Wörter für Dutch:
+2025-07-30 01:21:01 zijne 18944
+den 18944
+hare 18432
+rené 14848
+laurence 14336
+zoo 11776
+eene 11776
+zuster 8192
+broeder 8192
+hunne 6656
+2025-07-30 01:25:43 English Größe: 250.88 MB
+2025-07-30 01:25:43 English Dauer: 276 Sekunden
+2025-07-30 01:25:50 merged English
+2025-07-30 01:25:52 TOP 10 Wörter für English:
+2025-07-30 01:25:55 man 97424
+time 79090
+mr 70264
+и 60096
+good 56556
+made 51682
+back 48448
+long 47886
+holmes 47272
+great 46324
+2025-07-30 01:30:31 French Größe: 250.79 MB
+2025-07-30 01:30:31 French Dauer: 270 Sekunden
+2025-07-30 01:30:38 merged French
+2025-07-30 01:30:41 TOP 10 Wörter für French:
+2025-07-30 01:30:43 homme 77418
+faire 72102
+fut 57071
+monsieur 54946
+point 52080
+fit 44925
+femme 44464
+jeune 44295
+jamais 43015
+oui 42501
+2025-07-30 01:36:11 German Größe: 250.73 MB
+2025-07-30 01:36:11 German Dauer: 323 Sekunden
+2025-07-30 01:36:20 merged German
+2025-07-30 01:36:23 TOP 10 Wörter für German:
+2025-07-30 01:36:25 hand 44141
+augen 43968
+rief 43839
+herr 38696
+fragte 31496
+stand 28902
+leben 28883
+ließ 27738
+lassen 26567
+vater 25934
+2025-07-30 01:40:49 Italian Größe: 250.80 MB
+2025-07-30 01:40:50 Italian Dauer: 259 Sekunden
+2025-07-30 01:40:57 merged Italian
+2025-07-30 01:40:59 TOP 10 Wörter für Italian:
+2025-07-30 01:41:02 disse 122001
+s 89158
+rispose 54310
+sì 52849
+donna 47718
+occhi 47681
+ch 45610
+signor 43646
+altra 40478
+né 39034
+2025-07-30 01:47:13 Russian Größe: 251.97 MB
+2025-07-30 01:47:13 Russian Dauer: 366 Sekunden
+2025-07-30 01:47:20 merged Russian
+2025-07-30 01:47:23 TOP 10 Wörter für Russian:
+2025-07-30 01:47:25 ним 30192
+txt 28544
+глаза 18572
+моей 16726
+сердце 15975
+жизни 14655
+горский 14336
+знаю 13660
+ах 12730
+руки 12584
+2025-07-30 01:50:24 Spanish Größe: 250.63 MB
+2025-07-30 01:50:24 Spanish Dauer: 173 Sekunden
+2025-07-30 01:50:31 merged Spanish
+2025-07-30 01:50:34 TOP 10 Wörter für Spanish:
+2025-07-30 01:50:36 á 120544
+don 85952
+casa 69904
+ojos 51232
+hombre 47024
+vida 46272
+dios 42240
+padre 41376
+señor 40240
+mujer 39200
+2025-07-30 01:54:45 Ukrainian Größe: 250.66 MB
+2025-07-30 01:54:45 Ukrainian Dauer: 244 Sekunden
+2025-07-30 01:54:53 merged Ukrainian
+2025-07-30 01:54:55 TOP 10 Wörter für Ukrainian:
+2025-07-30 01:54:58 а 389507
+й 284407
+i 110403
+н 76880
+о 62108
+се 45027
+к 42672
+бо 41927
+од 39472
+неначе 35235
+2025-07-30 01:59:27 Dutch Größe: 250.48 MB
+2025-07-30 01:59:27 Dutch Dauer: 263 Sekunden
+2025-07-30 01:59:35 merged Dutch
+2025-07-30 01:59:37 TOP 10 Wörter für Dutch:
+2025-07-30 01:59:39 zijne 18944
+den 18944
+hare 18432
+rené 14848
+laurence 14336
+zoo 11776
+eene 11776
+zuster 8192
+broeder 8192
+hunne 6656
+2025-07-30 02:04:21 English Größe: 250.88 MB
+2025-07-30 02:04:21 English Dauer: 276 Sekunden
+2025-07-30 02:04:29 merged English
+2025-07-30 02:04:31 TOP 10 Wörter für English:
+2025-07-30 02:04:33 man 97424
+time 79090
+mr 70264
+и 60096
+good 56556
+made 51682
+back 48448
+long 47886
+holmes 47272
+great 46324
+2025-07-30 02:09:25 French Größe: 250.79 MB
+2025-07-30 02:09:25 French Dauer: 287 Sekunden
+2025-07-30 02:09:33 merged French
+2025-07-30 02:09:35 TOP 10 Wörter für French:
+2025-07-30 02:09:37 homme 77418
+faire 72102
+fut 57071
+monsieur 54946
+point 52080
+fit 44925
+femme 44464
+jeune 44295
+jamais 43015
+oui 42501
+2025-07-30 02:16:16 German Größe: 250.73 MB
+2025-07-30 02:16:16 German Dauer: 393 Sekunden
+2025-07-30 02:16:26 merged German
+2025-07-30 02:16:29 TOP 10 Wörter für German:
+2025-07-30 02:16:31 hand 44141
+augen 43968
+rief 43839
+herr 38696
+fragte 31496
+stand 28902
+leben 28883
+ließ 27738
+lassen 26567
+vater 25934
+2025-07-30 02:21:09 Italian Größe: 250.80 MB
+2025-07-30 02:21:09 Italian Dauer: 272 Sekunden
+2025-07-30 02:21:18 merged Italian
+2025-07-30 02:21:20 TOP 10 Wörter für Italian:
+2025-07-30 02:21:23 disse 122001
+s 89158
+rispose 54310
+sì 52849
+donna 47718
+occhi 47681
+ch 45610
+signor 43646
+altra 40478
+né 39034
+2025-07-30 02:27:38 Russian Größe: 251.97 MB
+2025-07-30 02:27:38 Russian Dauer: 369 Sekunden
+2025-07-30 02:27:46 merged Russian
+2025-07-30 02:27:48 TOP 10 Wörter für Russian:
+2025-07-30 02:27:50 ним 30192
+txt 28544
+глаза 18572
+моей 16726
+сердце 15975
+жизни 14655
+горский 14336
+знаю 13660
+ах 12730
+руки 12584
+2025-07-30 02:31:02 Spanish Größe: 250.63 MB
+2025-07-30 02:31:02 Spanish Dauer: 186 Sekunden
+2025-07-30 02:31:09 merged Spanish
+2025-07-30 02:31:11 TOP 10 Wörter für Spanish:
+2025-07-30 02:31:13 á 120544
+don 85952
+casa 69904
+ojos 51232
+hombre 47024
+vida 46272
+dios 42240
+padre 41376
+señor 40240
+mujer 39200
+2025-07-30 02:35:42 Ukrainian Größe: 250.66 MB
+2025-07-30 02:35:42 Ukrainian Dauer: 263 Sekunden
+2025-07-30 02:35:51 merged Ukrainian
+2025-07-30 02:35:53 TOP 10 Wörter für Ukrainian:
+2025-07-30 02:35:55 а 389523
+й 284407
+i 110531
+н 76880
+о 62108
+се 45027
+к 42688
+бо 41927
+од 39472
+неначе 35235
+2025-07-30 07:33:44 Dutch Größe: 500.97 MB
+2025-07-30 07:33:44 Dutch Dauer: 352 Sekunden
+2025-07-30 07:33:53 merged Dutch
+2025-07-30 07:33:56 TOP 10 Wörter für Dutch:
+2025-07-30 07:33:58 zijne 37888
+den 37888
+hare 36864
+rené 29696
+laurence 28672
+zoo 23552
+eene 23552
+zuster 16384
+broeder 16384
+hunne 13312
+2025-07-30 07:38:07 English Größe: 501.77 MB
+2025-07-30 07:38:07 English Dauer: 242 Sekunden
+2025-07-30 07:38:15 merged English
+2025-07-30 07:38:18 TOP 10 Wörter für English:
+2025-07-30 07:38:20 time 76292
+mr 71680
+man 70176
+good 52824
+captain 50708
+made 47636
+men 43468
+great 41928
+long 41724
+thought 40152
+2025-07-30 07:46:25 French Größe: 501.59 MB
+2025-07-30 07:46:25 French Dauer: 478 Sekunden
+2025-07-30 07:46:33 merged French
+2025-07-30 07:46:36 TOP 10 Wörter für French:
+2025-07-30 07:46:38 homme 132132
+faire 130300
+fut 107614
+point 94736
+monsieur 86532
+femme 82624
+fit 79562
+jamais 79518
+temps 76626
+jeune 75214
+2025-07-30 07:53:46 German Größe: 501.47 MB
+2025-07-30 07:53:46 German Dauer: 422 Sekunden
+2025-07-30 07:53:55 merged German
+2025-07-30 07:53:57 TOP 10 Wörter für German:
+2025-07-30 07:53:59 hand 88282
+augen 87936
+rief 87678
+herr 77392
+fragte 62992
+stand 57804
+leben 57766
+ließ 55476
+lassen 53134
+vater 51868
+2025-07-30 07:59:45 Italian Größe: 501.61 MB
+2025-07-30 07:59:45 Italian Dauer: 339 Sekunden
+2025-07-30 07:59:52 merged Italian
+2025-07-30 07:59:54 TOP 10 Wörter für Italian:
+2025-07-30 07:59:57 disse 120256
+s 74576
+signor 66192
+rispose 65040
+occhi 54272
+yanez 49184
+ch 47584
+uomini 43808
+voce 43648
+mano 43600
+2025-07-30 08:08:21 Russian Größe: 503.94 MB
+2025-07-30 08:08:21 Russian Dauer: 499 Sekunden
+2025-07-30 08:08:29 merged Russian
+2025-07-30 08:08:31 TOP 10 Wörter für Russian:
+2025-07-30 08:08:33 ним 60384
+txt 57088
+глаза 37144
+моей 33452
+сердце 31950
+жизни 29310
+горский 28672
+знаю 27320
+ах 25460
+руки 25168
+2025-07-30 08:14:58 Spanish Größe: 501.27 MB
+2025-07-30 08:14:58 Spanish Dauer: 378 Sekunden
+2025-07-30 08:15:06 merged Spanish
+2025-07-30 08:15:08 TOP 10 Wörter für Spanish:
+2025-07-30 08:15:10 
+2025-07-30 08:20:08 Ukrainian Größe: 501.33 MB
+2025-07-30 08:20:08 Ukrainian Dauer: 292 Sekunden
+2025-07-30 08:20:16 merged Ukrainian
+2025-07-30 08:20:19 TOP 10 Wörter für Ukrainian:
+2025-07-30 08:20:21 а 350208
+й 220224
+i 131072
+н 67008
+к 66496
+с 51904
+п 41984
+о 41472
+бо 33344
+од 32192
+2025-07-30 08:26:17 Dutch Größe: 500.97 MB
+2025-07-30 08:26:17 Dutch Dauer: 346 Sekunden
+2025-07-30 08:26:25 merged Dutch
+2025-07-30 08:26:28 TOP 10 Wörter für Dutch:
+2025-07-30 08:26:30 zijne 37888
+den 37888
+hare 36864
+rené 29696
+laurence 28672
+zoo 23552
+eene 23552
+zuster 16384
+broeder 16384
+hunne 13312
+2025-07-30 08:31:09 English Größe: 501.77 MB
+2025-07-30 08:31:09 English Dauer: 272 Sekunden
+2025-07-30 08:31:18 merged English
+2025-07-30 08:31:20 TOP 10 Wörter für English:
+2025-07-30 08:31:22 man 90560
+time 87476
+mr 80304
+good 60024
+made 56324
+men 52316
+captain 51716
+long 49868
+great 48376
+back 46832
+2025-07-30 08:39:05 French Größe: 501.59 MB
+2025-07-30 08:39:05 French Dauer: 457 Sekunden
+2025-07-30 08:39:14 merged French
+2025-07-30 08:39:16 TOP 10 Wörter für French:
+2025-07-30 08:39:19 homme 132132
+faire 130300
+fut 107614
+point 94736
+monsieur 86532
+femme 82624
+fit 79562
+jamais 79518
+temps 76626
+jeune 75214
+2025-07-30 08:46:27 German Größe: 501.47 MB
+2025-07-30 08:46:27 German Dauer: 422 Sekunden
+2025-07-30 08:46:36 merged German
+2025-07-30 08:46:38 TOP 10 Wörter für German:
+2025-07-30 08:46:40 hand 88282
+augen 87936
+rief 87678
+herr 77392
+fragte 62992
+stand 57804
+leben 57766
+ließ 55476
+lassen 53134
+vater 51868
+2025-07-30 08:52:57 Italian Größe: 501.61 MB
+2025-07-30 08:52:57 Italian Dauer: 371 Sekunden
+2025-07-30 08:53:05 merged Italian
+2025-07-30 08:53:08 TOP 10 Wörter für Italian:
+2025-07-30 08:53:10 disse 138128
+s 83936
+rispose 73632
+signor 70016
+occhi 58528
+yanez 56528
+ch 53936
+uomini 51216
+voce 48976
+chiese 48496
+2025-07-30 09:01:07 Russian Größe: 503.94 MB
+2025-07-30 09:01:07 Russian Dauer: 471 Sekunden
+2025-07-30 09:01:16 merged Russian
+2025-07-30 09:01:18 TOP 10 Wörter für Russian:
+2025-07-30 09:01:21 ним 60384
+txt 57088
+глаза 37144
+моей 33452
+сердце 31950
+жизни 29310
+горский 28672
+знаю 27320
+ах 25460
+руки 25168
+2025-07-30 09:07:30 Spanish Größe: 501.27 MB
+2025-07-30 09:07:30 Spanish Dauer: 363 Sekunden
+2025-07-30 09:07:38 merged Spanish
+2025-07-30 09:07:41 TOP 10 Wörter für Spanish:
+2025-07-30 09:07:43 
+2025-07-30 09:12:31 Ukrainian Größe: 501.33 MB
+2025-07-30 09:12:31 Ukrainian Dauer: 282 Sekunden
+2025-07-30 09:12:40 merged Ukrainian
+2025-07-30 09:12:43 TOP 10 Wörter für Ukrainian:
+2025-07-30 09:12:45 а 335360
+й 204672
+i 131072
+н 67008
+к 66496
+с 51904
+п 40512
+о 40512
+од 31616
+гнат 31296
+2025-07-30 09:18:44 Dutch Größe: 500.97 MB
+2025-07-30 09:18:44 Dutch Dauer: 351 Sekunden
+2025-07-30 09:18:52 merged Dutch
+2025-07-30 09:18:54 TOP 10 Wörter für Dutch:
+2025-07-30 09:18:57 zijne 37888
+den 37888
+hare 36864
+rené 29696
+laurence 28672
+zoo 23552
+eene 23552
+zuster 16384
+broeder 16384
+hunne 13312
+2025-07-30 09:22:38 English Größe: 501.77 MB
+2025-07-30 09:22:38 English Dauer: 214 Sekunden
+2025-07-30 09:22:46 merged English
+2025-07-30 09:22:49 TOP 10 Wörter für English:
+2025-07-30 09:22:51 time 76292
+mr 71680
+man 70176
+good 52824
+captain 50708
+made 47636
+men 43468
+great 41928
+long 41724
+thought 40152
+2025-07-30 09:29:52 French Größe: 501.59 MB
+2025-07-30 09:29:52 French Dauer: 415 Sekunden
+2025-07-30 09:30:00 merged French
+2025-07-30 09:30:02 TOP 10 Wörter für French:
+2025-07-30 09:30:04 homme 132132
+faire 130300
+fut 107614
+point 94736
+monsieur 86532
+femme 82624
+fit 79562
+jamais 79518
+temps 76626
+jeune 75214
+2025-07-30 09:36:43 German Größe: 501.47 MB
+2025-07-30 09:36:43 German Dauer: 393 Sekunden
+2025-07-30 09:36:51 merged German
+2025-07-30 09:36:54 TOP 10 Wörter für German:
+2025-07-30 09:36:56 hand 88282
+augen 87936
+rief 87678
+herr 77392
+fragte 62992
+stand 57804
+leben 57766
+ließ 55476
+lassen 53134
+vater 51868
+2025-07-30 09:42:23 Italian Größe: 501.61 MB
+2025-07-30 09:42:23 Italian Dauer: 320 Sekunden
+2025-07-30 09:42:31 merged Italian
+2025-07-30 09:42:33 TOP 10 Wörter für Italian:
+2025-07-30 09:42:35 disse 120256
+s 74576
+signor 66192
+rispose 65040
+occhi 54272
+yanez 49184
+ch 47584
+uomini 43808
+voce 43648
+mano 43600
+2025-07-30 09:50:10 Russian Größe: 503.94 MB
+2025-07-30 09:50:10 Russian Dauer: 449 Sekunden
+2025-07-30 09:50:18 merged Russian
+2025-07-30 09:50:20 TOP 10 Wörter für Russian:
+2025-07-30 09:50:22 ним 60384
+txt 57088
+глаза 37144
+моей 33452
+сердце 31950
+жизни 29310
+горский 28672
+знаю 27320
+ах 25460
+руки 25168
+2025-07-30 09:56:07 Spanish Größe: 501.27 MB
+2025-07-30 09:56:07 Spanish Dauer: 338 Sekunden
+2025-07-30 09:56:14 merged Spanish
+2025-07-30 09:56:16 TOP 10 Wörter für Spanish:
+2025-07-30 09:56:19 
+2025-07-30 10:00:42 Ukrainian Größe: 501.33 MB
+2025-07-30 10:00:42 Ukrainian Dauer: 257 Sekunden
+2025-07-30 10:00:51 merged Ukrainian
+2025-07-30 10:00:54 TOP 10 Wörter für Ukrainian:
+2025-07-30 10:00:56 а 350208
+й 220224
+i 131072
+н 67008
+к 66496
+с 51904
+п 41984
+о 41472
+бо 33344
+од 32192
+2025-07-30 10:07:58 Dutch Größe: 500.97 MB
+2025-07-30 10:07:58 Dutch Dauer: 414 Sekunden
+2025-07-30 10:08:08 merged Dutch
+2025-07-30 10:08:11 TOP 10 Wörter für Dutch:
+2025-07-30 10:08:16 zijne 37888
+den 37888
+hare 36864
+rené 29696
+laurence 28672
+zoo 23552
+eene 23552
+zuster 16384
+broeder 16384
+hunne 13312
+2025-07-30 10:12:41 English Größe: 501.77 MB
+2025-07-30 10:12:41 English Dauer: 255 Sekunden
+2025-07-30 10:12:50 merged English
+2025-07-30 10:12:53 TOP 10 Wörter für English:
+2025-07-30 10:12:57 time 79108
+man 76048
+mr 71792
+good 54712
+captain 50756
+made 49924
+men 47468
+long 44124
+great 43576
+thought 41560
+2025-07-30 10:22:14 French Größe: 501.59 MB
+2025-07-30 10:22:14 French Dauer: 550 Sekunden
+2025-07-30 10:22:24 merged French
+2025-07-30 10:22:26 TOP 10 Wörter für French:
+2025-07-30 10:22:29 homme 132132
+faire 130300
+fut 107614
+point 94736
+monsieur 86532
+femme 82624
+fit 79562
+jamais 79518
+temps 76626
+jeune 75214
+2025-07-30 10:30:42 German Größe: 501.47 MB
+2025-07-30 10:30:42 German Dauer: 487 Sekunden
+2025-07-30 10:30:52 merged German
+2025-07-30 10:30:55 TOP 10 Wörter für German:
+2025-07-30 10:30:57 hand 88282
+augen 87936
+rief 87678
+herr 77392
+fragte 62992
+stand 57804
+leben 57766
+ließ 55476
+lassen 53134
+vater 51868
+2025-07-30 10:37:36 Italian Größe: 501.61 MB
+2025-07-30 10:37:36 Italian Dauer: 391 Sekunden
+2025-07-30 10:37:44 merged Italian
+2025-07-30 10:37:47 TOP 10 Wörter für Italian:
+2025-07-30 10:37:50 disse 138128
+s 83936
+rispose 73632
+signor 70016
+occhi 58528
+yanez 56528
+ch 53936
+uomini 51216
+voce 48976
+chiese 48496
+2025-07-30 10:46:35 Russian Größe: 503.94 MB
+2025-07-30 10:46:35 Russian Dauer: 519 Sekunden
+2025-07-30 10:46:43 merged Russian
+2025-07-30 10:46:45 TOP 10 Wörter für Russian:
+2025-07-30 10:46:48 ним 60384
+txt 57088
+глаза 37144
+моей 33452
+сердце 31950
+жизни 29310
+горский 28672
+знаю 27320
+ах 25460
+руки 25168
+2025-07-30 10:53:01 Spanish Größe: 501.27 MB
+2025-07-30 10:53:01 Spanish Dauer: 366 Sekunden
+2025-07-30 10:53:08 merged Spanish
+2025-07-30 10:53:11 TOP 10 Wörter für Spanish:
+2025-07-30 10:53:13 
+2025-07-30 10:58:15 Ukrainian Größe: 501.33 MB
+2025-07-30 10:58:15 Ukrainian Dauer: 295 Sekunden
+2025-07-30 10:58:26 merged Ukrainian
+2025-07-30 10:58:29 TOP 10 Wörter für Ukrainian:
+2025-07-30 10:58:31 а 350208
+й 220224
+i 131072
+н 67008
+к 66496
+с 51904
+п 41984
+о 41472
+бо 33344
+од 32192
+2025-07-30 11:04:29 Dutch Größe: 500.97 MB
+2025-07-30 11:04:29 Dutch Dauer: 351 Sekunden
+2025-07-30 11:04:37 merged Dutch
+2025-07-30 11:04:40 TOP 10 Wörter für Dutch:
+2025-07-30 11:04:42 zijne 37888
+den 37888
+hare 36864
+rené 29696
+laurence 28672
+zoo 23552
+eene 23552
+zuster 16384
+broeder 16384
+hunne 13312
+2025-07-30 11:09:06 English Größe: 501.77 MB
+2025-07-30 11:09:06 English Dauer: 257 Sekunden
+2025-07-30 11:09:16 merged English
+2025-07-30 11:09:18 TOP 10 Wörter für English:
+2025-07-30 11:09:20 time 76292
+mr 71680
+man 70176
+good 52824
+captain 50708
+made 47636
+men 43468
+great 41928
+long 41724
+thought 40152
+2025-07-30 11:18:00 French Größe: 501.59 MB
+2025-07-30 11:18:00 French Dauer: 513 Sekunden
+2025-07-30 11:18:11 merged French
+2025-07-30 11:18:13 TOP 10 Wörter für French:
+2025-07-30 11:18:16 homme 132132
+faire 130300
+fut 107614
+point 94736
+monsieur 86532
+femme 82624
+fit 79562
+jamais 79518
+temps 76626
+jeune 75214
+2025-07-30 11:26:09 German Größe: 501.47 MB
+2025-07-30 11:26:09 German Dauer: 467 Sekunden
+2025-07-30 11:26:19 merged German
+2025-07-30 11:26:22 TOP 10 Wörter für German:
+2025-07-30 11:26:25 hand 88282
+augen 87936
+rief 87678
+herr 77392
+fragte 62992
+stand 57804
+leben 57766
+ließ 55476
+lassen 53134
+vater 51868
+2025-07-30 11:32:37 Italian Größe: 501.61 MB
+2025-07-30 11:32:37 Italian Dauer: 365 Sekunden
+2025-07-30 11:32:46 merged Italian
+2025-07-30 11:32:48 TOP 10 Wörter für Italian:
+2025-07-30 11:32:51 disse 120256
+s 74576
+signor 66192
+rispose 65040
+occhi 54272
+yanez 49184
+ch 47584
+uomini 43808
+voce 43648
+mano 43600
+2025-07-30 11:41:04 Russian Größe: 503.94 MB
+2025-07-30 11:41:04 Russian Dauer: 487 Sekunden
+2025-07-30 11:41:12 merged Russian
+2025-07-30 11:41:14 TOP 10 Wörter für Russian:
+2025-07-30 11:41:17 ним 60384
+txt 57088
+глаза 37144
+моей 33452
+сердце 31950
+жизни 29310
+горский 28672
+знаю 27320
+ах 25460
+руки 25168
+2025-07-30 11:47:34 Spanish Größe: 501.27 MB
+2025-07-30 11:47:34 Spanish Dauer: 370 Sekunden
+2025-07-30 11:47:42 merged Spanish
+2025-07-30 11:47:45 TOP 10 Wörter für Spanish:
+2025-07-30 11:47:47 
+2025-07-30 11:53:00 Ukrainian Größe: 501.33 MB
+2025-07-30 11:53:00 Ukrainian Dauer: 307 Sekunden
+2025-07-30 11:53:09 merged Ukrainian
+2025-07-30 11:53:11 TOP 10 Wörter für Ukrainian:
+2025-07-30 11:53:14 а 350208
+й 220224
+i 131072
+н 67008
+к 66496
+с 51904
+п 41984
+о 41472
+бо 33344
+од 32192
+2025-07-30 14:45:08 Dutch Größe: 1032.34 MB
+2025-07-30 14:45:08 Dutch Dauer: 474 Sekunden
+2025-07-30 14:45:16 merged Dutch
+2025-07-30 14:45:19 TOP 10 Wörter für Dutch:
+2025-07-30 14:45:21 
+2025-07-30 14:51:02 English Größe: 1026.75 MB
+2025-07-30 14:51:02 English Dauer: 335 Sekunden
+2025-07-30 14:51:12 merged English
+2025-07-30 14:51:15 TOP 10 Wörter für English:
+2025-07-30 14:51:18 mr 55840
+time 29888
+oliver 28832
+man 25184
+sir 21824
+good 20000
+long 19552
+replied 19200
+made 18016
+night 17536
+2025-07-30 14:58:59 French Größe: 1027.94 MB
+2025-07-30 14:58:59 French Dauer: 452 Sekunden
+2025-07-30 14:59:07 merged French
+2025-07-30 14:59:09 TOP 10 Wörter für French:
+2025-07-30 14:59:12 
+2025-07-30 15:05:05 German Größe: 1029.04 MB
+2025-07-30 15:05:05 German Dauer: 346 Sekunden
+2025-07-30 15:05:14 merged German
+2025-07-30 15:05:17 TOP 10 Wörter für German:
+2025-07-30 15:05:19 rief 27664
+augen 24032
+don 23296
+fabian 23136
+augenblick 22256
+pepe 21952
+indianer 21344
+hand 20720
+bois 20480
+rosé 18496
+2025-07-30 15:13:31 Italian Größe: 1029.32 MB
+2025-07-30 15:13:31 Italian Dauer: 484 Sekunden
+2025-07-30 15:13:40 merged Italian
+2025-07-30 15:13:42 TOP 10 Wörter für Italian:
+2025-07-30 15:13:45 
+2025-07-30 15:24:59 Russian Größe: 1035.70 MB
+2025-07-30 15:24:59 Russian Dauer: 667 Sekunden
+2025-07-30 15:25:09 merged Russian
+2025-07-30 15:25:12 TOP 10 Wörter für Russian:
+2025-07-30 15:25:15 ним 96192
+глаза 67788
+горский 57344
+сердце 56236
+знаю 54288
+вера 48128
+ах 47432
+слова 46816
+руки 44496
+жизни 43820
+2025-07-30 15:35:50 Spanish Größe: 1034.19 MB
+2025-07-30 15:35:50 Spanish Dauer: 628 Sekunden
+2025-07-30 15:35:59 merged Spanish
+2025-07-30 15:36:01 TOP 10 Wörter für Spanish:
+2025-07-30 15:36:03 
+2025-07-30 15:42:57 Ukrainian Größe: 1024.86 MB
+2025-07-30 15:42:57 Ukrainian Dauer: 406 Sekunden
+2025-07-30 15:43:05 merged Ukrainian
+2025-07-30 15:43:07 TOP 10 Wörter für Ukrainian:
+2025-07-30 15:43:09 
+2025-07-30 15:52:28 Dutch Größe: 1032.34 MB
+2025-07-30 15:52:28 Dutch Dauer: 548 Sekunden
+2025-07-30 15:52:36 merged Dutch
+2025-07-30 15:52:38 TOP 10 Wörter für Dutch:
+2025-07-30 15:52:41 
+2025-07-30 15:57:43 English Größe: 1026.75 MB
+2025-07-30 15:57:43 English Dauer: 294 Sekunden
+2025-07-30 15:57:52 merged English
+2025-07-30 15:57:55 TOP 10 Wörter für English:
+2025-07-30 15:57:58 mr 20864
+time 19104
+sir 15040
+long 14176
+thought 13472
+man 12224
+miss 12192
+good 12096
+made 11968
+rochester 11712
+2025-07-30 16:06:12 French Größe: 1027.94 MB
+2025-07-30 16:06:12 French Dauer: 486 Sekunden
+2025-07-30 16:06:20 merged French
+2025-07-30 16:06:23 TOP 10 Wörter für French:
+2025-07-30 16:06:26 
+2025-07-30 16:12:14 German Größe: 1029.04 MB
+2025-07-30 16:12:14 German Dauer: 341 Sekunden
+2025-07-30 16:12:24 merged German
+2025-07-30 16:12:27 TOP 10 Wörter für German:
+2025-07-30 16:12:30 rief 27664
+augen 24032
+don 23296
+fabian 23136
+augenblick 22256
+pepe 21952
+indianer 21344
+hand 20720
+bois 20480
+rosé 18496
+2025-07-30 16:20:36 Italian Größe: 1029.32 MB
+2025-07-30 16:20:36 Italian Dauer: 478 Sekunden
+2025-07-30 16:20:45 merged Italian
+2025-07-30 16:20:47 TOP 10 Wörter für Italian:
+2025-07-30 16:20:49 
+2025-07-30 16:31:53 Russian Größe: 1035.70 MB
+2025-07-30 16:31:53 Russian Dauer: 657 Sekunden
+2025-07-30 16:32:03 merged Russian
+2025-07-30 16:32:06 TOP 10 Wörter für Russian:
+2025-07-30 16:32:09 ним 96192
+глаза 67788
+горский 57344
+сердце 56236
+знаю 54288
+вера 48128
+ах 47432
+слова 46816
+руки 44496
+жизни 43820
+2025-07-30 16:42:48 Spanish Größe: 1034.19 MB
+2025-07-30 16:42:48 Spanish Dauer: 631 Sekunden
+2025-07-30 16:42:56 merged Spanish
+2025-07-30 16:42:58 TOP 10 Wörter für Spanish:
+2025-07-30 16:43:01 
+2025-07-30 16:49:38 Ukrainian Größe: 1024.86 MB
+2025-07-30 16:49:38 Ukrainian Dauer: 389 Sekunden
+2025-07-30 16:49:48 merged Ukrainian
+2025-07-30 16:49:51 TOP 10 Wörter für Ukrainian:
+2025-07-30 16:49:54 
+2025-07-30 16:59:08 Dutch Größe: 1032.34 MB
+2025-07-30 16:59:08 Dutch Dauer: 548 Sekunden
+2025-07-30 16:59:18 merged Dutch
+2025-07-30 16:59:21 TOP 10 Wörter für Dutch:
+2025-07-30 16:59:23 txt 10240
+hendrik 4096
+conscience 4096
+zuster 2048
+vrijbuiter 2048
+veltink 2048
+kieviet 2048
+kennemer 2048
+johannes 2048
+harm 2048
+2025-07-30 17:04:49 English Größe: 1026.75 MB
+2025-07-30 17:04:49 English Dauer: 318 Sekunden
+2025-07-30 17:04:57 merged English
+2025-07-30 17:04:59 TOP 10 Wörter für English:
+2025-07-30 17:05:02 alice 76512
+mr 55840
+time 43520
+thought 31072
+oliver 28832
+don 27200
+man 26144
+long 25696
+head 25504
+good 25184
+2025-07-30 18:12:04 French Größe: 1027.94 MB
+2025-07-30 18:12:04 French Dauer: 427 Sekunden
+2025-07-30 18:12:12 merged French
+2025-07-30 18:12:14 TOP 10 Wörter für French:
+2025-07-30 18:12:16 
+2025-07-30 18:17:55 German Größe: 1029.04 MB
+2025-07-30 18:17:55 German Dauer: 331 Sekunden
+2025-07-30 18:18:03 merged German
+2025-07-30 18:18:05 TOP 10 Wörter für German:
+2025-07-30 18:18:08 rief 27664
+augen 24032
+don 23296
+fabian 23136
+augenblick 22256
+pepe 21952
+indianer 21344
+hand 20720
+bois 20480
+rosé 18496
+2025-07-30 20:26:46 Dutch Größe: .66 MB
+2025-07-30 20:26:46 Dutch Dauer: 35 Sekunden
+2025-07-30 20:26:56 merged Dutch
+2025-07-30 20:26:58 TOP 10 Wörter für Dutch:
+2025-07-30 20:27:00 zoo 512
+zijne 509
+marten 330
+baas 305
+zien 230
+jan 224
+lisa 210
+vrouw 201
+eenen 197
+oogen 194
+2025-07-30 20:31:05 English Größe: 28.72 MB
+2025-07-30 20:31:05 English Dauer: 241 Sekunden
+2025-07-30 20:31:14 merged English
+2025-07-30 20:31:17 TOP 10 Wörter für English:
+2025-07-30 20:31:20 man 11763
+time 9585
+mr 8745
+good 6752
+made 6214
+holmes 5909
+back 5778
+long 5765
+great 5534
+day 5295
+2025-07-30 20:34:46 French Größe: 32.62 MB
+2025-07-30 20:34:46 French Dauer: 200 Sekunden
+2025-07-30 20:34:55 merged French
+2025-07-30 20:34:57 TOP 10 Wörter für French:
+2025-07-30 20:34:59 homme 10268
+faire 9207
+fut 7210
+monsieur 7088
+point 6670
+jeune 5891
+femme 5866
+fit 5731
+yeux 5615
+jamais 5572
+2025-07-30 20:40:00 German Größe: 49.85 MB
+2025-07-30 20:40:00 German Dauer: 296 Sekunden
+2025-07-30 20:40:09 merged German
+2025-07-30 20:40:12 TOP 10 Wörter für German:
+2025-07-30 20:40:15 rief 9276
+hand 8921
+augen 8278
+herr 7663
+fragte 6410
+leben 5996
+vater 5816
+stand 5656
+fort 5494
+frau 5384
+2025-07-30 20:43:25 Italian Größe: 19.48 MB
+2025-07-30 20:43:25 Italian Dauer: 186 Sekunden
+2025-07-30 20:43:33 merged Italian
+2025-07-30 20:43:36 TOP 10 Wörter für Italian:
+2025-07-30 20:43:38 disse 8759
+rispose 4023
+occhi 3614
+sì 3570
+donna 3087
+mano 3055
+altra 2968
+voce 2862
+uomini 2851
+signor 2710
+2025-07-30 20:47:51 Russian Größe: 4.09 MB
+2025-07-30 20:47:51 Russian Dauer: 247 Sekunden
+2025-07-30 20:47:59 merged Russian
+2025-07-30 20:48:01 TOP 10 Wörter für Russian:
+2025-07-30 20:48:04 глаза 298
+сердце 271
+моей 255
+жизни 234
+знаю 224
+горский 224
+руки 209
+ах 208
+слова 200
+ко 192
+2025-07-30 20:49:59 Spanish Größe: 8.58 MB
+2025-07-30 20:49:59 Spanish Dauer: 111 Sekunden
+2025-07-30 20:50:07 merged Spanish
+2025-07-30 20:50:10 TOP 10 Wörter für Spanish:
+2025-07-30 20:50:12 don 3073
+casa 2451
+ojos 1816
+vida 1599
+hombre 1565
+dios 1508
+señor 1497
+padre 1395
+mujer 1314
+mano 1262
+2025-07-30 20:52:56 Ukrainian Größe: 8.27 MB
+2025-07-30 20:52:56 Ukrainian Dauer: 160 Sekunden
+2025-07-30 20:53:06 merged Ukrainian
+2025-07-30 20:53:08 TOP 10 Wörter für Ukrainian:
+2025-07-30 20:53:11 а 14064
+й 11190
+i 4836
+н 1936
+о 1821
+вiн 1533
+бо 1511
+се 1469
+од 1421
+от 1274
+2025-07-30 21:01:46 Ukrainian Größe: 8.27 MB
+2025-07-30 21:01:46 Ukrainian Dauer: 150 Sekunden
+2025-07-30 21:01:57 merged Ukrainian
+2025-07-30 21:02:00 TOP 10 Wörter für Ukrainian:
+2025-07-30 21:02:03 а 14064
+й 11190
+i 4836
+н 1936
+о 1821
+вiн 1533
+бо 1511
+се 1469
+од 1421
+от 1274
+2025-07-30 21:12:11 Ukrainian Größe: 8.27 MB
+2025-07-30 21:12:11 Ukrainian Dauer: 150 Sekunden
+2025-07-30 21:12:19 merged Ukrainian
+2025-07-30 21:12:21 TOP 10 Wörter für Ukrainian:
+2025-07-30 21:12:24 же 1224
+мов 1205
+к 1187
+би 1185
+те 1182
+п 1139
+неначе 1115
+коло 817
+нi 803
+с 771
+2025-07-30 21:17:25 Ukrainian Größe: 8.27 MB
+2025-07-30 21:17:25 Ukrainian Dauer: 164 Sekunden
+2025-07-30 21:17:34 merged Ukrainian
+2025-07-30 21:17:36 TOP 10 Wörter für Ukrainian:
+2025-07-30 21:17:39 мов 1205
+коло 817
+менi 754
+чiпка 738
+уже 738
+серце 738
+усе 731
+знов 726
+нема 724
+таки 720
+2025-07-30 21:25:29 Ukrainian Größe: 8.27 MB
+2025-07-30 21:25:29 Ukrainian Dauer: 162 Sekunden
+2025-07-30 21:25:38 merged Ukrainian
+2025-07-30 21:25:41 TOP 10 Wörter für Ukrainian:
+2025-07-30 21:25:43 мов 1205
+коло 817
+чiпка 738
+серце 738
+и 716
+всі 716
+тiльки 712
+л 705
+із 696
+нехай 687
+2025-07-30 21:30:25 Ukrainian Größe: 8.27 MB
+2025-07-30 21:30:25 Ukrainian Dauer: 164 Sekunden
+2025-07-30 21:30:33 merged Ukrainian
+2025-07-30 21:30:36 TOP 10 Wörter für Ukrainian:
+2025-07-30 21:30:38 мов 1205
+коло 817
+чiпка 738
+серце 738
+пан 679
+да 677
+руки 676
+єремія 644
+ним 634
+хати 613
+2025-07-30 21:34:21 Ukrainian Größe: 8.27 MB
+2025-07-30 21:34:21 Ukrainian Dauer: 162 Sekunden
+2025-07-30 21:34:31 merged Ukrainian
+2025-07-30 21:34:34 TOP 10 Wörter für Ukrainian:
+2025-07-30 21:34:37 мов 1205
+коло 817
+чiпка 738
+серце 738
+пан 679
+руки 676
+єремія 644
+хати 613
+мотря 613
+хату 609
